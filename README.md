@@ -1,2 +1,1 @@
-# production-flow
-End-to-End Production &amp; Logistics Cycle
+# End-to-End Production &amp; Logistics Cycle
